@@ -1,0 +1,7 @@
+Part#1
+docker-compose build
+docker-compose up
+Part#2
+docker-compose build
+docker-compose up
+docker exec -it django_container /bin/bash
